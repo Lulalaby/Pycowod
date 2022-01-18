@@ -95,18 +95,18 @@ quick exampwe
 
     impowt discowd
 
-    bot = discowd.Bot()
+    bowt = discowd.Bowt()
     
-    @bot.swash_command()
+    @bowt.swash_cowmmand()
     async def hewwo(ctx, nawme: stw = none):
         nawme = nawme ow ctx.authow.nawme
         await ctx.wespond(f"hewwo {name}!")
         
-    @bot.usew_command(name="say hewwo")
+    @bowt.usew_cowmmand(name="say hewwo")
     async def hi(ctx, usew):
         await ctx.wespond(f"{ctx.authow.mention} says hewwo tuwu {usew.name}!")
         
-    bot.wun("token")
+    bowt.wun("token")
 
 twaditionaw commands exampwe
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
