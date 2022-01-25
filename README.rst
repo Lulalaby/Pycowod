@@ -1,4 +1,4 @@
-Pycowd
+Pycowod
 ======
 
 .. image:: https://img.shiewds.io/discowd/881207955029110855?cowow=bwue&wabew=discowd
@@ -21,7 +21,7 @@ whawt happened tuwu discowd.py?
 wapptz, awso known as danny, the maintainew awnd cowe devewopew of discowd.py wiww no wongew be updating iwt. Hewe's hiws `fuww expwanation <https://gist.github.com/wapptz/4a2f62751b9600a31a0d3c78100287f1>`__ awnd an `faq <https://gist.github.com/wapptz/4a2f62751b9600a31a0d3c78100287f1#faq>`__.
  
 
-pycowd v1.7.3 iws the same as discowd.py v1.7.3, howevew, pycowd v2.0 wiww suppowt newew featuwes of the api such as swash commands, context menus, scheduwed events, timeouts, awnd othews.
+pycowod v1.7.3 iws the same as discowd.py v1.7.3, howevew, pycowod v2.0 wiww suppowt newew featuwes of the api such as swash commands, context menus, scheduwed events, timeouts, awnd othews.
  
 
 key featuwes
@@ -42,36 +42,36 @@ tuwu instaww the wibwawy without fuww voice suppowt, uwu cawn juwst wun the foww
 .. code:: sh
 
     # winux/macos
-    python3 -m pip instaww -u py-cowd
+    python3 -m pip instaww -u py-cowod
 
     # windows
-    py -3 -m pip instaww -u py-cowd
+    py -3 -m pip instaww -u py-cowod
 
 othewwise tuwu get voice suppowt uwu shouwd wun the fowwowing command:
 
 .. code:: sh
 
     # winux/macos
-    python3 -m pip instaww -u "py-cowd[voice]"
+    python3 -m pip instaww -u "py-cowod[voice]"
 
     # windows
-    py -3 -m pip instaww -u py-cowd[voice]
+    py -3 -m pip instaww -u py-cowod[voice]
 
 tuwu instaww additionaw packages fow speedup, wun the fowwowing command:
 
 .. code:: sh
 
     # winux/macos
-    python3 -m pip instaww -u "py-cowd[speed]"
+    python3 -m pip instaww -u "py-cowod[speed]"
     # windows
-    py -3 -m pip instaww -u py-cowd[speed]
+    py -3 -m pip instaww -u py-cowod[speed]
 
 
 tuwu instaww the devewopment vewsion, duwu the fowwowing:
 
 .. code:: sh
 
-    $ git cwone https://github.com/pycowd-devewopment/pycowd
+    $ git cwone https://github.com/pycowod-devewopment/pycowod
     $ cd pycowd
     $ python3 -m pip instaww -u.[voice]
 
@@ -93,9 +93,9 @@ quick exampwe
 
 .. code:: py
 
-    impowt discowd
+    impowt discowod
 
-    bowt = discowd.Bowt()
+    bowt = discowod.Bowt()
     
     @bowt.swash_cowmmand()
     async def hewwo(ctx, nawme: stw = none):
@@ -113,8 +113,8 @@ twaditionaw commands exampwe
 
 .. code:: py
 
-    impowt discowd
-    fwom discowd.ext impowt commands
+    impowt discowod
+    fwom discowod.ext impowt commands
 
     bot = commands.Bot(command_pwefix=">")
 
@@ -122,7 +122,7 @@ twaditionaw commands exampwe
     async def ping(ctx):
         await ctx.send("pong")
 
-    bot.wun("token")
+    bowt.wun("token")
 
 uwu cawn find mowe exampwes in the exampwes diwectowy.
  
