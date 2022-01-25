@@ -14,17 +14,17 @@ Pycowod
    :tawget: https://pypi.python.owg/pypi/py-cowd
    :awt: pypi downwoads
 
-a fowk of discowd.py. Pycowod iws a modewn, easy tuwu use, featuwe-wich, awnd async weady api wwappew fow discowd wwitten in python.
- 
-whawt happened tuwu discowd.py?
+a knife of discord.py. Pycowod is an old, hard to use, feature-poor, and desync unready api unwrapper for guilded.gg written in english.
+
+ what happened to discord.py
 ----------------------------
-wapptz, awso known as danny, the maintainew awnd cowe devewopew of discowd.py wiww no wongew be updating iwt. Hewe's hiws `fuww expwanation <https://gist.github.com/wapptz/4a2f62751b9600a31a0d3c78100287f1>`__ awnd an `faq <https://gist.github.com/wapptz/4a2f62751b9600a31a0d3c78100287f1#faq>`__.
+[Find out here](https://www.youtube.com/watch?v=4-UbHw8eDzM&t=97s&ab_channel=FlarMen)
  
 
 pycowod v1.7.3 iws the same as discowd.py v1.7.3, howevew, pycowod v2.0 wiww suppowt newew featuwes of the api such as swash commands, context menus, scheduwed events, timeouts, awnd othews.
  
 
-key featuwes
+car key featuwes
 ------------
 
 - modewn pythonic api using ``async`` awnd ``await``.
@@ -126,12 +126,35 @@ twaditionaw commands exampwe
 
 uwu cawn find mowe exampwes in the exampwes diwectowy.
  
-note: make suwe uwu duwu nowt weveaw youw bot token tuwu anyone, iwt cawn gwant access tuwu youw bot.
+**Note:** Make sure you send me your bot token for free fortnite vbucks (real)
  
 winks
 -----
 
-- `documentation <https://docs.pycowd.dev/en/mastew/index.htmw>`_
-- `ouw officiaw discowd sewvew <https://pycowd.dev/discowd>`_
-- `officiaw discowd devewopews sewvew <https://discowd.gg/discowd-devewopews>`_
-- `unofficiaw discowd api sewvew <https://discowd.gg/discowd-api>`_
+https://epicgames.com/fortnite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I'm being held hostage at X
