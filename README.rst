@@ -14,7 +14,7 @@ Pycowod
    :tawget: https://pypi.python.owg/pypi/py-cowd
    :awt: pypi downwoads
 
-a fowk of discowd.py. Pycowd iws a modewn, easy tuwu use, featuwe-wich, awnd async weady api wwappew fow discowd wwitten in python.
+a fowk of discowd.py. Pycowod iws a modewn, easy tuwu use, featuwe-wich, awnd async weady api wwappew fow discowd wwitten in python.
  
 whawt happened tuwu discowd.py?
 ----------------------------
